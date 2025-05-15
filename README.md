@@ -13,7 +13,6 @@ This project is a web-based tool that predicts the **expected college** a studen
 ## 🌐 Live URL
 
 👉 [Visit the app here](https://eapcet-college-predictor.netlify.app/)  
-> Replace the above link with your actual deployed URL.
 
 ## 🛠️ Tech Stack
 
