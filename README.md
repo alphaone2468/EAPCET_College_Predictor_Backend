@@ -19,13 +19,5 @@ This project is a web-based tool that predicts the **expected college** a studen
 
 - **Frontend:** React.js / HTML / CSS / JavaScript
 - **Backend:** Node.js / Express.js
-- **Database:** MongoDB / PostgreSQL (as per your project)
-- **ML Model (optional):** Scikit-learn / TensorFlow (if predictions are AI-based)
 
-## 📦 Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/expected-college-predictor.git
-   cd expected-college-predictor
