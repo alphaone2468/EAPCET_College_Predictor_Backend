@@ -65,5 +65,11 @@ app.post("/", (req, res) => {
 });
 
 
+
+app.get('/',(req,res)=>{
+  res.json({message:"connected"});
+})
+
+
 app.listen(5000);
 
